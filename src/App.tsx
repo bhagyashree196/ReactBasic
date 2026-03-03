@@ -1,11 +1,13 @@
-import './App.css'
-
+import Test from "./Test";
 function App() {
-
+  let name="Kartik";
   return (
-    <>
-      <h1>BHAGYASHREE RAMNATH SABLE</h1>
-    </>
+    <div>
+      <h1>{name} Ramnath Sable</h1>
+      <h2>D Y Patil College of Engineering</h2>
+      <Test/>
+      <Test/>
+    </div>
   )
 }
 
