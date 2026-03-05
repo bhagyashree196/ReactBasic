@@ -1,10 +1,8 @@
 function Test(){
-    let nm="bhagyashree";
     return(
         <div>
-            <h1>Testing {nm}</h1>
+            <h1>Testing</h1>
         </div>
     )
 }
-
 export default Test;

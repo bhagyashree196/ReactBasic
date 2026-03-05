@@ -1,12 +1,12 @@
-import Test from "./Test";
+import ListArr from "./ListArr";
+
 function App() {
-  let name="Kartik";
+  {/*let name="bhagyashree";*/}
   return (
     <div>
-      <h1>{name} Ramnath Sable</h1>
-      <h2>D Y Patil College of Engineering</h2>
-      <Test/>
-      <Test/>
+      {/*<h1>{name} Ramnath Sable</h1>*/}
+      <ListArr/>
+      {/*<Test/>*/}
     </div>
   )
 }
